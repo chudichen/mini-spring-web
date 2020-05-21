@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <tomcat.version>8.5.40</tomcat.version>
+        <tomcat.version>8.5.55</tomcat.version>
         <maven.plugins.version>3.8.0</maven.plugins.version>
         <logback.version>1.2.3</logback.version>
     </properties>
